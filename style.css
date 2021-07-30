@@ -96,7 +96,7 @@ h3 {
     }
 
     .work-img {
-        content:url(stats-prewview-card/images/image-header-mobile.jpg);
+        content:url(stats-preview-card/images/image-header-mobile.jpg);
         border-radius: 5px 5px 0 0;
         grid-row: 1;
         grid-column: 1;
